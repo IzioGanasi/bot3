@@ -4,7 +4,7 @@ import logging
 from datetime import datetime
 
 from bot_pro import MomentumProBot  # ou bot_ml.MomentumMLBot conforme você tenha
-from myiq.core.client import IQOption
+from myiq import IQOption
 
 # logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s | %(message)s', datefmt='%H:%M:%S')

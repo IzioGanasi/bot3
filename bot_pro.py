@@ -8,7 +8,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.neural_network import MLPClassifier
 from sklearn.preprocessing import StandardScaler
 
-from myiq.core.client import IQOption
+from myiq import IQOption
 
 class RiskManager:
     def __init__(self, percent_risk_per_trade: float = 0.01, max_daily_loss_percent: float = 0.05):
