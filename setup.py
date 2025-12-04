@@ -11,7 +11,7 @@ setup(
     description="An unofficial Python library for interacting with the IQ Option trading platform",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/myiq",
+    url="https://github.com/IzioGanasi/bot3",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",

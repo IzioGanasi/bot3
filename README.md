@@ -30,13 +30,13 @@ pip install myiq
 ### From Source
 
 ```bash
-pip install git+https://github.com/yourusername/myiq.git
+pip install git+https://github.com/IzioGanasi/bot3.git
 ```
 
 Or clone the repository and install locally:
 
 ```bash
-git clone https://github.com/yourusername/myiq.git
+git clone https://github.com/IzioGanasi/bot3.git
 cd myiq
 pip install .
 ```
